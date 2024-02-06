@@ -12,7 +12,7 @@ Telegram bot for storing posts and documents, accessible via special links.
 - **Fully Customizable:** Tailor the bot to fit your needs perfectly.
 - **Welcoming Messages:** Greet your users with personalized welcome and ForceSub messages.
 - **Efficient Link Generation:** Easily create links for multiple posts or individual posts.
-- **Heroku Deployment:** Seamlessly deploy the bot on Heroku with a single click.
+- **Heroku Deployment:** [Deploy on Heroku](https://heroku.com/deploy)
 
 ## Setup
 
@@ -24,17 +24,14 @@ Telegram bot for storing posts and documents, accessible via special links.
 ### Deploy on Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-*Click the button above to deploy on Heroku.*
 
 ### Deploy on Railway
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/1jKLr4)
-*Deploy with Railway using the button above.*
 
 ### Deploy on Koyeb
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/CodeXBotz/File-Sharing-Bot&branch=koyeb&name=filesharingbot)
-*Deploy on Koyeb using the button above.*
 
 ### Deploy on Your VPS
 
