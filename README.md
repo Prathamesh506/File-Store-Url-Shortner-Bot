@@ -35,14 +35,16 @@ Telegram bot for storing posts and documents, accessible via special links.
 
 ### Deploy on Your VPS
 
-```bash
+#### Deploy in your VPS
+````bash
 git clone https://github.com/CodeXBotz/File-Sharing-Bot
 cd File-Sharing-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
+````
 
-## Admin Commands
+### Admin Commands
 
 Manage your bot efficiently with these commands:
 
