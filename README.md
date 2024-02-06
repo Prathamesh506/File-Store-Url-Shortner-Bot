@@ -1,10 +1,9 @@
-# File Sharing Bot
+# File-Store-Url-Shortner-Bot
 
 Telegram bot for storing posts and documents, accessible via special links.
 
 <div align="center">
   <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="200" alt="Made with Python">
-  <img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="200" alt="Made by CodeXBotz">
 </div>
 
 ## Features
