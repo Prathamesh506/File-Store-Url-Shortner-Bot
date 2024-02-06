@@ -1,7 +1,7 @@
 # vegacodes
 
 <div align="center">
-  <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3DCode%253A002&psig=AOvVaw2op3bMoXZKnunUNugnIWPD&ust=1707310266650000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOibz8HgloQDFQAAAAAdAAAAABAq](https://c4.wallpaperflare.com/wallpaper/273/577/73/zero-two-darling-in-the-franxx-anime-girls-pink-hair-darling-in-the-franxx-wallpaper-preview.jpg)" width="200" alt="vegacodes">
+  <img src="https://c4.wallpaperflare.com/wallpaper/273/577/73/zero-two-darling-in-the-franxx-anime-girls-pink-hair-darling-in-the-franxx-wallpaper-preview.jpg" width="200" alt="vegacodes">
 </div>
 
 # File-Store-Url-Shortner-Bot
