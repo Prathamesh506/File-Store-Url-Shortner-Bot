@@ -2,42 +2,41 @@
 
 Telegram bot for storing posts and documents, accessible via special links.
 
-![Made with Python](http://ForTheBadge.com/images/badges/made-with-python.svg)
-![Made by CodeXBotz](https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg)
+<div align="center">
+  <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="200" alt="Made with Python">
+  <img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="200" alt="Made by CodeXBotz">
+</div>
 
 ## Features
 
-- Fully customizable.
-- Customizable welcome & ForceSub messages.
-- Supports more than one post in one link.
-- Can be deployed on Heroku directly.
+- **Fully Customizable:** Tailor the bot to fit your needs perfectly.
+- **Welcoming Messages:** Greet your users with personalized welcome and ForceSub messages.
+- **Efficient Link Generation:** Easily create links for multiple posts or individual posts.
+- **Heroku Deployment:** Seamlessly deploy the bot on Heroku with a single click.
 
 ## Setup
 
-- Add the bot to a Database Channel with all permissions.
-- Add the bot to a ForceSub channel as an Admin with "Invite Users via Link" permission if you enable ForceSub.
+- Add the bot to a Database Channel with all necessary permissions.
+- Ensure the bot is added as an Admin to the ForceSub channel, granting "Invite Users via Link" permission if you enable ForceSub.
 
 ## Installation
 
 ### Deploy on Heroku
 
-Click the button below to deploy to Heroku.
-
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-Check out this [Tutorial Video](https://youtu.be/LCrkRTMkmzE) on YouTube for help.
+*Click the button above to deploy on Heroku.*
 
 ### Deploy on Railway
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/1jKLr4)
+*Deploy with Railway using the button above.*
 
 ### Deploy on Koyeb
 
-Click the button below to deploy to Koyeb.
-
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/CodeXBotz/File-Sharing-Bot&branch=koyeb&name=filesharingbot)
+*Deploy on Koyeb using the button above.*
 
-### Deploy on your VPS
+### Deploy on Your VPS
 
 ```bash
 git clone https://github.com/CodeXBotz/File-Sharing-Bot
