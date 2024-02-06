@@ -104,11 +104,13 @@ Manage your bot efficiently with these commands:
 
 * `{uptime}` - Bot Uptime
 
+## Support
+
+For assistance and updates, join our [Telegram Group](https://www.telegram.dog/cinearcade).
 
 ### Credits
 
 - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
-- 
 - Our Support Group Members
 
 ### Licence
