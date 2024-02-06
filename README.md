@@ -44,14 +44,32 @@ pip3 install -r requirements.txt
 python3 main.py
 ````
 
-### Admin Commands
+## Admin Commands
 
 Manage your bot efficiently with these commands:
 
-- **/start:** Begin interaction with the bot or retrieve posts.
-- **/batch:** Generate a link for multiple posts simultaneously.
-- **/genlink:** Create a link for a single post.
-- **/users:** Access bot statistics and user insights.
-- **/broadcast:** Send broadcast messages to all bot users.
-- **/stats:** Check the bot's uptime and performance metrics.
+```
+/start: Begin interaction with the bot or retrieve posts.
+/batch: Generate a link for multiple posts simultaneously.
+/genlink: Create a link for a single post.
+/users: Access bot statistics and user insights.
+/broadcast: Send broadcast messages to all bot users.
+/stats: Check the bot's uptime and performance metrics.
+```
+
+### Variables
+
+- `API_HASH`: Your API Hash from my.telegram.org
+- `APP_ID`: Your API ID from my.telegram.org
+- `TG_BOT_TOKEN`: Your bot token from @BotFather
+- `OWNER_ID`: Your Telegram ID
+- `CHANNEL_ID`: Your Channel ID (e.g., -100xxxxxxxx)
+- `DATABASE_URL`: Your MongoDB URL
+- `DATABASE_NAME`: Your MongoDB session name
+- `ADMINS`: Optional list of user_ids of Admins (space-separated)
+- `START_MESSAGE`: Optional start message of bot
+- `FORCE_SUB_MESSAGE`: Optional ForceSub message of bot
+- `FORCE_SUB_CHANNEL`: Optional ForceSub Channel ID (leave 0 to disable ForceSub)
+- `PROTECT_CONTENT`: Optional: True if you need to prevent files from forwarding
+
 
