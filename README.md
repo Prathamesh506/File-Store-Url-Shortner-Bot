@@ -1,6 +1,6 @@
 # <span style="color: #ff0000;">VEGACODES</span>
 
-<div align="center">
+<div align="LEFT">
   <img src="https://c4.wallpaperflare.com/wallpaper/273/577/73/zero-two-darling-in-the-franxx-anime-girls-pink-hair-darling-in-the-franxx-wallpaper-preview.jpg" width="600" alt="vegacodes">
 </div>
 
