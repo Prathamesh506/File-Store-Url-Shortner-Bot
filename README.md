@@ -41,3 +41,15 @@ cd File-Sharing-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
+
+## Admin Commands
+
+Manage your bot efficiently with these commands:
+
+- **/start:** Begin interaction with the bot or retrieve posts.
+- **/batch:** Generate a link for multiple posts simultaneously.
+- **/genlink:** Create a link for a single post.
+- **/users:** Access bot statistics and user insights.
+- **/broadcast:** Send broadcast messages to all bot users.
+- **/stats:** Check the bot's uptime and performance metrics.
+
